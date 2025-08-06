@@ -1,4 +1,4 @@
-# Python List Operations Example
+# Python List Operations 
 
 ## Description
 
@@ -38,7 +38,7 @@ Final list: [10, 15, 20, 30, 40, 50, 60]
 To run this script:
 
 1. Copy the code into a Python file, for example, `list_operations.py`.
-2. Run the script using Python 3:
+2. Run the code 
 
 ```bash
 python list_operations.py
